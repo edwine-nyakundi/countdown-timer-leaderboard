@@ -76,7 +76,7 @@ This web application integrates a countdown timer, a task submission form, and a
 
 ## Installation
 
-1. download and unzip the folder
+1. clone the repository
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
